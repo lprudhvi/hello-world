@@ -3,4 +3,4 @@ From tomee
 
 # Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
-COPY ./webapp.war /usr/local/tomcat/webapps
+COPY ./webapp.war /usr/local/tomee/webapps
